@@ -9,7 +9,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/HungVoCs47/ChatBotLLamaIndex.git)
+    git clone https://github.com/HungVoCs47/ChatBot.git)
     ```
 
 2. Install dependencies:
